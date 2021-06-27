@@ -1,0 +1,7 @@
+datetime
+Ipython
+nolds
+numpy
+scipy
+matplotlib
+mesa
